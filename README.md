@@ -89,7 +89,7 @@ I first ran the Windows ipconfig command to identify my local IP address and LAN
 | Live hosts discovered | 4 |
 | Scan duration | 3.84 seconds |
 
-The scan reported 256 IP addresses scanned with 3 hosts up. The discovered hosts and their MAC addresses are listed below.
+The scan reported 256 IP addresses scanned with 4 hosts up. The discovered hosts and their MAC addresses are listed below.
 | IP Address | MAC Address | Observation |
 |---|---|---|
 | 192.168.100.1 | Not reported| Default Gateway |
