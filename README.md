@@ -92,12 +92,12 @@ I first ran the Windows ipconfig command to identify my local IP address and LAN
 The scan reported 256 IP addresses scanned with 3 hosts up. The discovered hosts and their MAC addresses are listed below.
 | IP Address | MAC Address | Observation |
 |---|---|---|
-| 192.168.100.1 | Not reported (scanning host itself) | Default Gateway |
+| 192.168.100.1 | Not reported| Default Gateway |
 | 192.168.100.5| F2:15:83:C2:E7:68 | My own laptop IP |
 | 192.168.100.11 | D8:88:63:D8:3B:AE| Huawei Technologies |
 | 192.168.100.13 | 2A:44:AB:0E:AD:E7 | Unidentified client device on the same subnet |
 
-No MAC address was reported for 10.134.29.62 because that is the machine performing the scan; a host does not ARP for its own address, so Nmap has no MAC entry to display. The vendor lookup returned "Unknown" for both of the other MAC addresses, meaning the OUI prefixes were not present in Nmap’s vendor database. It is worth noting that both prefixes (2A: and C2:) have the locally-administered bit set, which is typical of randomised or virtualised MAC addresses rather than factory-assigned ones.
+No MAC address was reported for 192.168.100.1 because that was the default gateway.
 After completing the scan I opened the Topology tab in Zenmap, reviewed the legend, and used Save Graphic to export the network topology in PDF format to the desktop, as required by the practical task.
 
 5. Risk Analysis / Impact
@@ -169,9 +169,3 @@ Evidence 6 – dnsrecon DNS record enumeration
 
  Evidence 8 – Zenmap network topology (saved to PDF)
  <img width="516" height="463" alt="image" src="https://github.com/Anish-Pradhan07/networkwalks-w2-B084--footprinting-scanning--/blob/main/WK2-Screenshots/Topology.png" />
-
- 
-- End -
-Author
-Anish Pradhan
-
