@@ -1,4 +1,4 @@
-# networkwalks-w2-B084--footprinting-scanning--
+# Networkwalks-W2-B084--footprinting-scanning--
 
 PENETRATION TESTING REPORT
 FOOTPRINTING and NETWORK SCANNING PHASES
@@ -170,3 +170,12 @@ Evidence 6 – dnsrecon DNS record enumeration
  Evidence 8 – Zenmap network topology (saved to PDF)
  
  <img width="516" height="463" alt="image" src="https://github.com/Anish-Pradhan07/networkwalks-w2-B084--footprinting-scanning--/blob/main/WK2-Screenshots/Topology.png" />
+
+ - End -
+Author
+Anish Pradhan
+Batch B084, Networkwalks
+| GitHub: https://github.com/Anish-Pradhan07
+| LinkedIn: https://www.linkedin.com/in/anish-pradhan-774b7736b/
+| Project Information --- 
+Program Name: Cybersecurity & Ethical Hacking Internship at Networkwalks  |  Week: 02  |  Modules: W2-PM1, W2-PM5  |  Repository: GitHub
