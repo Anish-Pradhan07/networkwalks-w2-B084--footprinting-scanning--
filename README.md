@@ -173,9 +173,5 @@ Evidence 6 – dnsrecon DNS record enumeration
  
 - End -
 Author
-Ademola Oduola
-Cybersecurity Professional – Batch B083, Networkwalks
-GitHub: github.com/Ademolaoduola
-LinkedIn: https://www.linkedin.com/in/ademolaoduola?originalSubdomain=ng
-Project Information
-Program Name: Cybersecurity & Ethical Hacking Internship at Networkwalks  |  Week: 02  |  Modules: W2-PM1, W2-PM5  |  Repository: GitHub
+Anish Pradhan
+
