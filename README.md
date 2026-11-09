@@ -168,4 +168,5 @@ Evidence 6 – dnsrecon DNS record enumeration
  <img width="938" height="295" alt="image" src="https://github.com/Anish-Pradhan07/networkwalks-w2-B084--footprinting-scanning--/blob/main/WK2-Screenshots/Zenmap.png" />
 
  Evidence 8 – Zenmap network topology (saved to PDF)
+ 
  <img width="516" height="463" alt="image" src="https://github.com/Anish-Pradhan07/networkwalks-w2-B084--footprinting-scanning--/blob/main/WK2-Screenshots/Topology.png" />
