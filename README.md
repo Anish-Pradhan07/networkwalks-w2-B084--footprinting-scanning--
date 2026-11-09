@@ -1,7 +1,7 @@
-# networkwalks-w2-B083--footprinting-scanning--
+# networkwalks-w2-B084--footprinting-scanning--
 
 PENETRATION TESTING REPORT
-FOOTPRINTING & NETWORK SCANNING PHASES
+FOOTPRINTING and NETWORK SCANNING PHASES
 W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS
 
 Week 2 pentest report — footprinting networkwalks.com and Zenmap network scanning
